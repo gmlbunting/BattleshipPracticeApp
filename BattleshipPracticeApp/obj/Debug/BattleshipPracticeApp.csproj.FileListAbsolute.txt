@@ -1,0 +1,11 @@
+C:\Users\gareth\source\repos\BattleshipPracticeApp\obj\Debug\BattleshipPracticeApp.csprojAssemblyReference.cache
+C:\Users\gareth\source\repos\BattleshipPracticeApp\obj\Debug\BattleshipPracticeApp.frmGame.resources
+C:\Users\gareth\source\repos\BattleshipPracticeApp\obj\Debug\BattleshipPracticeApp.frmLogin.resources
+C:\Users\gareth\source\repos\BattleshipPracticeApp\obj\Debug\BattleshipPracticeApp.Properties.Resources.resources
+C:\Users\gareth\source\repos\BattleshipPracticeApp\obj\Debug\BattleshipPracticeApp.csproj.GenerateResource.cache
+C:\Users\gareth\source\repos\BattleshipPracticeApp\obj\Debug\BattleshipPracticeApp.csproj.CoreCompileInputs.cache
+C:\Users\gareth\source\repos\BattleshipPracticeApp\bin\Debug\BattleshipPracticeApp.exe.config
+C:\Users\gareth\source\repos\BattleshipPracticeApp\bin\Debug\BattleshipPracticeApp.exe
+C:\Users\gareth\source\repos\BattleshipPracticeApp\bin\Debug\BattleshipPracticeApp.pdb
+C:\Users\gareth\source\repos\BattleshipPracticeApp\obj\Debug\BattleshipPracticeApp.exe
+C:\Users\gareth\source\repos\BattleshipPracticeApp\obj\Debug\BattleshipPracticeApp.pdb
